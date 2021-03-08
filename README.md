@@ -1,0 +1,1 @@
+# Discord-Bot-V12-Ayarlamal-neri-Sistemi-
