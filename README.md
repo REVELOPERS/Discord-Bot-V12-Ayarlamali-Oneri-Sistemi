@@ -1,6 +1,6 @@
  Discord Bot V12 Ayarlamalı Oneri Sistemi 
 
-Merhaba Arakadaşlar **RvS Community** Olarak Sistelere Discord.js V12 Ayarlamalı Öneri Sistemi Paylaştık.
+Merhaba Arakadaşlar **RvS Community** Olarak Sizlere Discord.js V12 Ayarlamalı Öneri Sistemi Paylaştık.
 Sistemi İzinsiz Bir Şekilde Kesinlikle Paylaşmayınız!
 Sistemin Kurulumu Veya Yapım Videosu İçin Aşşağıdaki Linkten Ulaşabilirsiniz!
 
